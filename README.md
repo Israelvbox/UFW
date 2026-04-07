@@ -16,7 +16,7 @@ En la mayoría de distribuciones modernas, UFW viene preinstalado. Si no está i
 
 ```shell
 # En distribuciones basadas en Debian/Ubuntu
-apt update && sudo apt install ufw
+apt update && apt install ufw
 ```
 ```shell
 # En distribuciones basadas en Red Hat (con soporte para DNF)

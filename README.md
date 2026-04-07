@@ -172,12 +172,3 @@ ufw allow in on eth0 to any port 80
 ```
 
 <br>
-
-## Más Recursos
-
-Para más información, consulta la [documentación oficial de UFW](https://help.ubuntu.com/community/UFW).
-
----
-
-**¡Gracias por consultar esta guía!**  
-Si tienes sugerencias o encuentras errores, no dudes en contribuir o reportarlos.
